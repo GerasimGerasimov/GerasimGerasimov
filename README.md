@@ -11,9 +11,9 @@ to code my "zero-programming" IoT project
 - 🌱 I’m currently learning: ML, Data Science and to get best practices Front/Back-end development (Node.js, React, Vue, TypeScript)
 - 💞️ I’m looking to collaborate on IoT projects, to aggregate and represent complex data to analisis.
 - 📫 How to reach me: dialix@yandex.ru, https://t.me/gerasim_v_gerasimov
-- 
-- My articles:
-- https://habr.com/ru/post/460399/ File loading indicator by SVG and Vue.js
+
+- 🗞 My articles:
+-- https://habr.com/ru/post/460399/ File loading indicator by SVG and Vue.js
 
 <!---
 GerasimGerasimov/GerasimGerasimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
