@@ -2,7 +2,7 @@
 - 🎓 i have graduate "Engineer of Electrical drive and Automation" of Tomsk Polytechnical University at 1998.
 - Most of my time (since 2002) i'm developing architectures and writing a code of the embedded applications using C, C++ mostly for ARM-based platforms.
 My devices specific area is: electric motor drive, excitation systems of power plant generators, operator panels (displays) and other devices of industrial control systems.
-- Since 2016 i'm paying close my attention to WEB-technology applied to Embedded Devices (control by WEB, representation data from devices to WEB) for that i had mastered Node.JS, TypeScript, React.js, Vue.js, Git, CI/CD and cetera. After a lot of fussing around Debian-based Raspberry , I figured out some features of Linux :-)
+- Since 2016 i'm paying close my attention to WEB-technology applied to Embedded Devices (control by WEB, representation data from devices to WEB) for that i had mastered Node.JS, TypeScript, React.js, Vue.js, Git, CI/CD and cetera. After a lot of fussing around Debian-based Raspberry , I figured out some features of Linux 😼
 - 👀 I’m interested in: 
 to code my "zero-programming" IoT project:
   1) Node.js microservices to get gathering devices data by  standart industrial fielbuses and to represent these data like as humanreadable tags  
