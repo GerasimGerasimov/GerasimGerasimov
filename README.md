@@ -1,3 +1,5 @@
+**Make peaceful projects, not war!**
+
 - 👋 Hi, I’m @GerasimGerasimov
 - 🎓 i have graduate "Engineer of Electrical drive and Automation" of Tomsk Polytechnical University at 1998.
 - Most of my time (since 2002) i'm developing architectures and writing a code of the embedded applications using C, C++ mostly for ARM-based platforms.
