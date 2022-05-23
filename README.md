@@ -1,4 +1,4 @@
-**Make peaceful projects, not war!**
+** ☮︎ Make peaceful projects, not war! 🕊 **
 
 - 👋 Hi, I’m @GerasimGerasimov
 - 🎓 i have graduate "Engineer of Electrical drive and Automation" of Tomsk Polytechnical University at 1998.
